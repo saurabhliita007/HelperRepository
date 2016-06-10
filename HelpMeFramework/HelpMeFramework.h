@@ -15,5 +15,5 @@ FOUNDATION_EXPORT double HelpMeFrameworkVersionNumber;
 FOUNDATION_EXPORT const unsigned char HelpMeFrameworkVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <HelpMeFramework/PublicHeader.h>
-
+#import <HelpMeFramework/Helper.h>
 
